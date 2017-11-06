@@ -1,0 +1,24 @@
+select, 
+input {
+	display: block;
+	margin: auto;			
+}
+
+label {
+	display: block;
+	text-align: center;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+form {
+	border: 1px solid #000000;
+	width: 30%;
+	margin: auto;
+}
+
+#calculate {
+	margin-bottom: 20px;
+}
